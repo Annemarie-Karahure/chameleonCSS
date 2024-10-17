@@ -1,0 +1,24 @@
+/* src/base.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif; /* Base font family */
+    line-height: 1.6; /* Base line height */
+    color: #333; /* Default text color */
+    background-color: #f8f9fa; /* Default background color */
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+  }
+  
